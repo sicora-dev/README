@@ -12,7 +12,7 @@ console.log(rol);
 Futuro FullStack Developer
 ```
 
-
+<br>
 
 ###
 
@@ -76,7 +76,7 @@ Futuro FullStack Developer
 
 ###
 
-<br clear="both">
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/sicora-dev/sicora-dev/output/snake.svg" alt="Snake animation" />
 </div>
@@ -84,7 +84,7 @@ Futuro FullStack Developer
 
 ###
 
-<br clear="both">
+<br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sicora-dev/count.svg?"  />
